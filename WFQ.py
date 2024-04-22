@@ -1,6 +1,6 @@
 from collections import deque
 
-# Read input packet stream
+
 input_packets = [
     "S Mary", "P Dee", "P Dee", "E Eileen", "E Mike", "E Joe", "P Dee",
     "E Vicky", "E George", "P Dee", "P Joe", "E Sally", "P Joe", "S Pete",
