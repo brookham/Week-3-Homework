@@ -10,3 +10,6 @@ array_mean = np.mean(a2d, axis = 1)
 print("mean rows in array: ", array_mean)
 array_max = np.max(a2d, axis = 1)
 print("max rows in array: ", array_max)
+
+
+nice Brook
